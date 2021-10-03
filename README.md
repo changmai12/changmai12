@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Chalisa Changmai.
+- 👀 I’m interested Front-End
+- 🌱 I’m currently learning React and TypeScript.
+- 📫 How to reach me samesame.cha@gmail.com
